@@ -160,6 +160,9 @@ Windows:
 ```bash
 mvnw spring-boot:run
 ```
+```powershell
+bash run-backend.sh
+```
 
 or:
 
