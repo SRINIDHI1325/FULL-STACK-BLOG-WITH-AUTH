@@ -159,9 +159,12 @@ Windows:
 
 ```bash
 mvnw spring-boot:run
+bash run-backend.sh
 ```
 ```powershell
-bash run-backend.sh
+
+cd backend/demo
+.\run-backend.ps1
 ```
 
 or:
